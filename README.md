@@ -1,4 +1,4 @@
-# 📋 School Course Management System — Project Management Plan
+# School Course Management System — Project Management Plan
 
 **Team:** EduTrack  
 **Course:** Software Project Management  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository contains the full **Project Management Plan (PMP)** for the School Course Management System (SCMS) — a web-based academic platform designed to centralize course registration, gradebook management, and user authentication for a single school.
 
@@ -14,10 +14,10 @@ The focus of this project is the **management and planning process**, not the im
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 ---
 
-## 📑 Plan Structure
+##  Plan Structure
 
 ### Section 1 — Overview
 - **Purpose & Scope:** Centralizing course catalog, enrollment, clash detection, and gradebook for one school over one academic term.
@@ -46,7 +46,7 @@ The focus of this project is the **management and planning process**, not the im
 
 ---
 
-## 👥 Team
+##  Team
 
 | Name              | ID     | Role                  |
 |-------------------|--------|-----------------------|
@@ -60,6 +60,6 @@ The focus of this project is the **management and planning process**, not the im
 
 ---
 
-## 📄 License
+##  License
 
 Submitted as an academic deliverable for a Software Project Management course. Not intended for commercial use.
